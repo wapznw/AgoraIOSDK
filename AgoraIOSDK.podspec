@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AgoraIOSDK"
-  s.version      = "0.0.1"
+  s.version      = "1.9.1"
   s.summary      = "agora.io AgoraIOSDK."
 
   # This description is used to generate tags and improve search results.
